@@ -1,2 +1,4 @@
 # sampleWork-VB.Net
-Upload a file, read it and output the csv to JSON format.
+Read .csv file and output the content to JSON format.
+Note:
+The UI is in Japanese.
